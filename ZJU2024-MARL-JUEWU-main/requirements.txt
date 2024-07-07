@@ -1,0 +1,6 @@
+numpy==1.24.3
+gym==0.24.0
+pygame
+matplotlib
+tqdm
+gymnasium
